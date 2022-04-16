@@ -16,7 +16,19 @@ Use pip to do a local install of discord.py
 ```pip install -U discord.py```
 
 Get the latest version of the file: https://iplists.firehol.org/files/firehol_level1.netset
+
 Remove comment lines
+
+Setup Bot on discord.com
+------------------------
+
+Register the bot on discord dev site, link to a channel
+
+Developer website: https://discord.com/developers/applications/
+
+export an environmental variable with your bot access token:
+
+```export CHECKURLBOT_TOKEN=1234...78910```
 
 How to use it ...
 -----------------
